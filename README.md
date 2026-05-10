@@ -17,5 +17,4 @@ A simple Python command-line game where the user guesses a randomly generated nu
 ## What I Learned
 This project helped me practise loops, conditionals, user input, error handling, and basic game logic in Python.
 
-## GitHub
-https://github.com/Sangima-Chowdhury/number-guessing-game
+
